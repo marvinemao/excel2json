@@ -19,6 +19,6 @@ add <script src="js/excel2json.js"></script> in your code
 
 ### example
 * generate a table straightly
-![](https://github.com/marvinemao/excel2json/tree/master/img/table.gif)
+![](https://github.com/marvinemao/excel2json/raw/master/img/table.gif)
 * get the json to generate a list
-![](https://github.com/marvinemao/excel2json/tree/master/img/lists.gif)
+![](https://github.com/marvinemao/excel2json/raw/master/img/lists.gif)
